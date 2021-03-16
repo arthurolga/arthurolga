@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Arthur Olga</h1>
 <h3 align="center">Brazilian Computer Engineering Student. Passionate about AI and Machine Learning</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurolga&" alt="arthurolga" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,4 +18,4 @@
 <a href="https://linkedin.com/in/arthur-q-m-olga-212aab119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthur-q-m-olga-212aab119" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurolga&" alt="arthurolga" /></p>
+
