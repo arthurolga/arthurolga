@@ -1,17 +1,17 @@
 <h1 align="center">Hey, I'm Arthur Olga</h1>
 <h3 align="center">Brazilian Computer Engineering Student. Passionate about AI and Machine Learning</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=mlops-guide.github.io" />
+<a href="https://mlops-guide.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=mlops-guide.github.io&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=dvc-gitactions" />
+<a href="https://github.com/arthurolga/Chess-AI">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=Chess-AI&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=Chess-AI" />
+<a href="https://github.com/arthurolga/SambaLang">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=SambaLang&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=SambaLang" />
+<a href="https://github.com/mlops-guide/dvc-gitactions">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=dvc-gitactions&theme=cobalt" />
 </a>
 
 
