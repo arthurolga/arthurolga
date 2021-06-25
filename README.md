@@ -2,16 +2,16 @@
 <h3 align="center">Brazilian Computer Engineering Student. Passionate about AI and Machine Learning</h3>
 
 <a href="https://mlops-guide.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=mlops-guide.github.io&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=mlops-guide.github.io" />
 </a>
 <a href="https://github.com/arthurolga/Chess-AI">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=Chess-AI&theme=cobalt" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=Chess-AI&" />
 </a>
 <a href="https://github.com/arthurolga/SambaLang">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=SambaLang&theme=cobalt" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurolga&repo=SambaLang" />
 </a>
 <a href="https://github.com/mlops-guide/dvc-gitactions">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=dvc-gitactions&theme=cobalt" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mlops-guide&repo=dvc-gitactions" />
 </a>
 
 
